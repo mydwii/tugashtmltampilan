@@ -1,0 +1,19 @@
+*{
+    margin-top: auto;
+    padding: 0%;
+
+}
+form{
+    margin-top: 100px;
+    border: 0.5px black solid;
+    float: center;}
+
+    .container{
+        border-top:20px;
+        padding: 20px;
+    }
+    
+.gender{
+    align-content: center;
+}
+
